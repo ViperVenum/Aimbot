@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-Title = "Crown Aimbot";
-Text = "Congrats you're a gay using aimbot now give me megavore"; 
+Title = "Bee AimBot";
+Text = "Bees soft aim/aimbot"; 
 Duration = 30; })
 --]]
 getgenv().SelectedPart = "Head"
